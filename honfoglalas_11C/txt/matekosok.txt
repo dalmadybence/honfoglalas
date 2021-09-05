@@ -1,0 +1,48 @@
+A jurta a vándorló nomádok, jellemzően a közép-ázsiai és kelet-szibériai nomád török és mongol népek favázra épített kerek nemezsátra.
+A honfoglalás kori magyaroknak is lakóépülete volt. A nagy állattartó közösségekhez köthető életforma során alakult ki ez a rácsos falú, kupolás tetejű, nemezzel borított, sátorszerű építmény.
+A jurta jelentősége abban állt, hogy szétszerelve könnyen tovább lehetett vele vándorolni, ami az évszakok változása által meghatározott sztyeppei életmód (téli–nyári szállás), a költözködés szempontjából rendkívüli fontossággal bírt.
+
+
+Jurta anyagai:
+
+A jurta rácsszerkezetéhez göcsmentes vörösfenyő, vagy kőrisfa léceket használunk.
+A léceket gőzölve hajlítjuk, hogy a rácsszerkezet szépen kövesse a kör ívét, hajlítás nélkül ugyanis a lécek homorúak lennének a rácsban.
+
+A vörösfenyő híresen jól ellenáll az időjárásnak, élettartama igen hosszú.
+A kőrisfa nem igazán tartós, viszont a legrugalmasabb faanyagok egyike, masszív rácsszerkezetet lehet belőle készíteni. A rácsszerkezet léceit nedves bivalybőr szíjakkal kötjük össze.
+
+A tetőlécek, az ajtó és a tetőkarika alapanyaga lucfenyő.
+A faanyagokat lenolajjal kenjük át, ettől szép sárgás színt kapnak és tartósít is valamennyire, bár az ajtót és a rácsszerkezet alsó részét érdemes speciális víztaszító és gombásodást gátló festékkel lekenni.
+
+A borítás három részből áll. A tetőrudakra először egy normál lepedőanyagból készült ún. belső vászonborítás kerül.
+Ezt követi a filc borítás a jurta teljes felületén, végül a vízhatlan sátorponyva borítás kerül a jurtára.
+
+A hőszigetelést több filcréteg egymásra terítésével lehet hatékonyabbá tenni. A filc mű-, illetve természetes anyagok keverékéből készül tömörítés útján.
+Előnye, hogy nem rohad el, jó hő- és hangszigetelő tulajdonságokkal rendelkezik.
+
+
+Főbb jellemzők:
+• passzív szigetelőrendszerrel ellátott,
+• fűthető,
+• egész évben használható,
+• hosszú távon megbízható,
+• magas komforthatást nyújtó,
+• világos belső terű,
+• letisztult, arányos formavilággal bíró,
+• többfunkciós,
+• korszerű és innovatív
+
+Jurta átmérője: 4,5 méter
+Jurta magassága: 4 méter.
+
+ 
+Jurta belterének kiszámítása:
+Jurta alakzata egy hengerből és kúpból áll.
+Henger Térfogat: r * r * 3,14 * H = 2,25m * 2,25m * 3,14 * 2m = 15,89 m2 * 2m = 31,7925 m3
+Henger kerülete: 4,5* 3,14 = 14,13
+Henger Területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m2
+Kúp térfogat: (r2* 3,14 *H) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375
+
+Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1675
+
+Júrta beltere 35,1675 m3 
