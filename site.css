@@ -117,16 +117,17 @@ h6 {
     color: #D8DEE9;
 }
 
-#source{
-    background-image: url('img/src_bkg.jpeg');
-}
-
 #credits {
     background-color: #2E3440;
 
 }
 
 #history {
+    color: #D8DEE9;
+    background-color: #2E3440;
+}
+
+#legends {
     color: #D8DEE9;
     background-color: #2E3440;
 }
